@@ -31,3 +31,27 @@ The group members are as follows:
 5. Arshita Batra
 
 6. Ashish Kumar
+
+The periodic table:
+
+![https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Periodic%20table.jpeg](https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Periodic%20table.jpeg)
+
+Some screenshots:
+
+![https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.26.56%20PM.png](https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.26.56%20PM.png)
+
+![https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.33.02%20PM.png](https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.33.02%20PM.png)
+
+![https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.33.06%20PM.png](https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.33.06%20PM.png)
+
+![https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.33.09%20PM.png](https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.33.09%20PM.png)
+
+![https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.33.21%20PM.png](https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.33.21%20PM.png)
+
+![https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.33.26%20PM.png](https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.33.26%20PM.png)
+
+![https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.34.22%20PM.png](https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.34.22%20PM.png)
+
+![https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.34.25%20PM.png](https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.34.25%20PM.png)
+
+![https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.34.39%20PM.png](https://github.com/ajinkyabedekar/Gibbs-Free-Energy-and-Its-Application-in-Electrochemistry/blob/master/Screen%20Shot%202016-11-19%20at%2012.34.39%20PM.png)
