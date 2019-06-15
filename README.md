@@ -1,11 +1,5 @@
 # Gibb's Free Energy and Its Application in Electrochemistry
 
-https://www.chem.tamu.edu/class/majors/tutorialnotefiles/gibbs.htm
-
-https://en.wikipedia.org/wiki/Gibbs_free_energy
-
-https://www.quora.com/What-are-applications-of-Gibbs-Free-Energy
-
 This project was done in fulfilment of the academic project of Chemistry I.
 
 It consists of the following:
@@ -31,6 +25,14 @@ The group members are as follows:
 5. Arshita Batra
 
 6. Ashish Kumar
+
+Some useful links:
+
+    https://www.chem.tamu.edu/class/majors/tutorialnotefiles/gibbs.htm
+
+    https://en.wikipedia.org/wiki/Gibbs_free_energy
+
+    https://www.quora.com/What-are-applications-of-Gibbs-Free-Energy
 
 The periodic table:
 
